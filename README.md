@@ -1,0 +1,2 @@
+# CharacterInversionAndReverseConversionPlugin
+文字反転・逆再生変換ができるツールウィンドウを追加するプラグイン
