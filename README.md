@@ -20,5 +20,10 @@
 ### 文字逆再生変換モード
 <img width="637" height="208" alt="image" src="https://github.com/user-attachments/assets/a8b5fd70-ee9a-4cfd-ac28-30d7c93fd18c" />
 
+## 更新履歴
+```
+1.0.1 「つ」の逆再生変換時の挙動を修正
+1.0.0 リリース
+```
 ### ライセンス
 MIT License
