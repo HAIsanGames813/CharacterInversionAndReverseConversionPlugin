@@ -1,4 +1,9 @@
 # 文字反転・逆再生変換
+
+## インストール
+[ここからダウンロード](https://github.com/HAIsanGames813/CharacterInversionAndReverseConversionPlugin/releases/latest)  
+
+## 概要
 文字の並びを反転させたり文字を逆再生変換するツールウィンドウを追加するプラグインです  
 
 ## 使用方法
